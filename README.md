@@ -10,14 +10,17 @@
 </picture>
 <!-- CONTRIB:END -->
 
-## 已合并贡献
+## 参与的开源项目
 
 ### [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
 
-- [fix(frontend): recognize tab-separated web fetch headings](https://github.com/bytedance/deer-flow/pull/6923) — 修复网页抓取标题解析无法识别制表符的问题。
-- [docs: add llama.cpp local model configuration (#2931)](https://github.com/bytedance/deer-flow/pull/5688) — 补充 llama.cpp 本地模型配置示例与 Docker 网络说明。
+面向研究、编码和创作任务的开源长周期 SuperAgent 框架。
+
+- [修复网页抓取标题对制表符的识别（PR #6923）](https://github.com/bytedance/deer-flow/pull/6923)
+- [补充 llama.cpp 本地模型配置文档（PR #5688）](https://github.com/bytedance/deer-flow/pull/5688)
 
 ### [TencentCloud/Octop](https://github.com/TencentCloud/Octop)
 
-- [fix(dashboard): polyfill Object.hasOwn for Chromium 90](https://github.com/TencentCloud/Octop/pull/826) — 为旧版 Chromium 增加 Object.hasOwn 兼容处理。
+支持多用户和多 Agent 的自托管 AI 助手。
 
+- [为 Chromium 90 增加 Object.hasOwn 兼容处理（PR #826）](https://github.com/TencentCloud/Octop/pull/826)
