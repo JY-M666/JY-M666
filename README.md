@@ -3,6 +3,10 @@
   <img src="./assets/hero-light.svg" width="100%" alt="JY-M666">
 </picture>
 
+## 关于我
+
+关注 AI Agent 工程化，尤其是 Harness 设计、工具链与评测驱动的迭代。通过参与 DeerFlow、Octop 和 LiveKit 等开源项目，我围绕内容解析、浏览器兼容、桌面交互和实时语音场景做过改进；希望继续探索如何提升 Agent 的可靠性与真实任务表现。
+
 <!-- CONTRIB:BEGIN -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contrib-dark.svg">
