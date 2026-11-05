@@ -5,7 +5,7 @@
 
 ## 关于我
 
-我专注于 Agentic Engineering，具备从 Harness 设计与实现到评测驱动迭代的完整实践能力：构建上下文、工具、反馈回路、状态与记忆机制；基于 SWE-bench、Terminal-Bench 和真实业务任务搭建评测，量化能力提升并定位失效原因；再据此优化 Prompt、工具与工作流，沉淀可复用技能。我也会深入复现、改进 SWE-agent、OpenHands 等开源 Agent 系统，并验证效果能否迁移到真实任务。
+我专注于 Agentic Engineering，具备从 Harness 设计与实现到评测驱动迭代的完整实践能力：构建上下文、工具、反馈回路、状态与记忆机制；基于公开基准与真实业务任务搭建评测，量化能力提升并定位失效原因；再据此优化 Prompt、工具与工作流，沉淀可复用技能。我也会深入复现、改进 SWE-agent、OpenHands 等开源 Agent 系统，并验证效果能否迁移到真实任务。
 
 <!-- CONTRIB:BEGIN -->
 <picture>
