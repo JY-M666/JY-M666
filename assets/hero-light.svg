@@ -4,7 +4,7 @@
 <rect x="40" y="47" width="7" height="7" fill="#8250df"/>
 <text x="56" y="54" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8250df" font-weight="600">OPEN SOURCE CONTRIBUTOR</text>
 <text x="38" y="126" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="44" font-weight="700" fill="#1f2328">JY-M666</text>
-<text x="40" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15.5" fill="#59636e" font-weight="normal">通过代码修复与文档完善，参与 AI 开源项目。</text>
-<text x="40" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal">前端兼容性 · 内容解析 · 本地模型配置</text>
+<text x="40" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15.5" fill="#59636e" font-weight="normal">参与 AI Agent 与开发者工具建设，关注真实使用体验。</text>
+<text x="40" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" fill="#59636e" font-weight="normal">智能体框架 · 实时语音 · 桌面交互</text>
 <line x1="40" y1="217" x2="922" y2="217" stroke="#d1d9e0" stroke-width="1"/>
 </svg>
